@@ -6,9 +6,9 @@ body{
 }
  header {
       text-align: center;
-      background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mantokuji_Obama_Fukui15s3s4592.jpg/1200px-Mantokuji_Obama_Fukui15s3s4592.jpg');
+      background: url('images/Doll.jpg');
       background-size: cover;
-      color: white;
+      color: (255, 255, 255);
 }
 html {
     background-color: rgb(106, 4, 29);
