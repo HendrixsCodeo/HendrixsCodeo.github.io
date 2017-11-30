@@ -10,6 +10,9 @@ header{
     background-size: cover;
     padding: 0px, 10px, 0px, 10px;
     color: white;
+    height: 80px;
+    background-color: gray;
+    margin-bottom: 60px;
 }
 html {
     background-color: rgb(106, 4, 29);
