@@ -3,8 +3,8 @@
    <head>
            <link href="app.css" rel="stylesheet"/>
            <link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet">           
-           <meta charset="utf-8">
-           <title>Unit Website</title>
+           <meta charset="utf-8"/>
+           <title>Net Neutrality/title>
    </head>
        <body>
            <article>
@@ -16,11 +16,11 @@
                 <li><a href="index.html">Home Page<a></li>
                 <li><a href="ATM.html">ATM</a></li>
                 <li><a href="Future.html">Future</a></li>  
-                <li><a href="Esports.html">Sports</a></li>  
+                <li><a href="NetNeutrality.html">Save The Net</a></li>  
                </ul>
                </header>
-                  <h1>What is Esports?</h1>
-                  <p>Esports also known as electronic sports is competitve video gaming for professional gamers. Most games that are esports</p>
+                  <h1>What is Net Neutrality?</h1>
+                  <p>Net Neutrality </p>
                   
                   
                  <footer>
