@@ -5,9 +5,7 @@ body{
     margin-left: 0px;
 }
 h3 {
-	float: center;
-	margin: auto;
-	padding: auto;
+	text-align: center;
 }
  header {
       text-align: center;
