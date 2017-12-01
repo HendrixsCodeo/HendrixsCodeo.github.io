@@ -4,9 +4,6 @@ body{
     margin-bottom: 0px;
     margin-left: 0px;
 }
-.pumpkinPie{
-color: (255, 255, 255);
-}
 p{
 	text-align: center;
 }
@@ -38,7 +35,7 @@ li{
 h1{
 	text-align: center;
     font-size: 5em;
-    color: rgb(1, 1, 1);
+    color: rgb(255, 255, 255);
 }
 ul {
     text-align: center;
