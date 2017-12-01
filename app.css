@@ -4,8 +4,8 @@ body{
     margin-bottom: 0px;
     margin-left: 0px;
 }
-.pumpkinPie{
-color: white;
+#pumpkinPie{
+color: (255, 255, 255);
 }
 p{
 	text-align: center;
