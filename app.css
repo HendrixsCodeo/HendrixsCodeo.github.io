@@ -4,6 +4,11 @@ body{
     margin-bottom: 0px;
     margin-left: 0px;
 }
+sS {
+	float: center;
+	margin: auto;
+	padding: auto;
+}
  header {
       text-align: center;
       background: url('images/Doll.jpg');
