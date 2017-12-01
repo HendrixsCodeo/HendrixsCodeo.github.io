@@ -4,6 +4,9 @@ body{
     margin-bottom: 0px;
     margin-left: 0px;
 }
+p{
+	text-align: center;
+}
 h3 {
 	text-align: center;
 }
