@@ -33,9 +33,9 @@ li{
     text-align: center; 
 }
 h1{
+	text-align: center;
     font-size: 5em;
-    color: rgb(1, 1, 1)
-	text-align: center;	    
+    color: rgb(1, 1, 1);
 }
 ul {
     text-align: center;
